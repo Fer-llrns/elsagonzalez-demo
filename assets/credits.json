@@ -1,0 +1,90 @@
+{
+  "osteopath": {
+    "src": "assets/img/osteopath.jpg",
+    "title": "The Best Insoles for Work Boots",
+    "creator": "gm.esthermax",
+    "creator_url": "https://www.flickr.com/photos/29971610@N02",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/29971610@N02/30140596942",
+    "source": "flickr"
+  },
+  "massage": {
+    "src": "assets/img/massage.jpg",
+    "title": "Lavendar Farm",
+    "creator": "woodleywonderworks",
+    "creator_url": "https://www.flickr.com/photos/73645804@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/73645804@N00/2712146938",
+    "source": "flickr"
+  },
+  "about": {
+    "src": "assets/img/about.jpg",
+    "title": "Central medical centre.PMB",
+    "creator": "IAPB/VISION 2020",
+    "creator_url": "https://www.flickr.com/photos/89097492@N06",
+    "license": "by-nc-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/89097492@N06/50367238417",
+    "source": "flickr"
+  },
+  "contact": {
+    "src": "assets/img/contact.jpg",
+    "title": "Catholic Health Building, Downtown Buffalo, March 2020",
+    "creator": "Western New York Architecture Deep Cuts",
+    "creator_url": "https://www.flickr.com/photos/198134987@N03",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/198134987@N03/52966493397",
+    "source": "flickr"
+  },
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "ATMIS Support in Kismayo",
+    "creator": "atmis.somalia",
+    "creator_url": "https://www.flickr.com/photos/195242906@N08",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/195242906@N08/52507399706",
+    "source": "flickr"
+  },
+  "services": {
+    "src": "assets/img/services.jpg",
+    "title": "120618-N-KB052-147",
+    "creator": "Cooperation Afloat Readiness and Training (CARAT)",
+    "creator_url": "https://www.flickr.com/photos/45638746@N04",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/45638746@N04/7393393904",
+    "source": "flickr"
+  },
+  "services": {
+    "src": "assets/img/services.jpg",
+    "title": "Fatigue and exercise in MS patients",
+    "creator": "YL Mariano",
+    "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:YL_Mariano&action=edit&redlink=1",
+    "license": "by-sa",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=72864106",
+    "source": "wikimedia"
+  },
+  "about": {
+    "src": "assets/img/about.jpg",
+    "title": "How Top Physiotherapy Clinic Can Help in Post-Pregnancy?",
+    "creator": "seosuman32",
+    "creator_url": "https://www.flickr.com/photos/196262984@N06",
+    "license": "pdm",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/196262984@N06/52580830856",
+    "source": "flickr"
+  }
+}
